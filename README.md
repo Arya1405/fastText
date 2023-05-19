@@ -1,4 +1,4 @@
-# fasttext #
+# fastText #
 
 Follow the following steps for running fasttext using python module:
 1. https://fasttext.cc/docs/en/support.html
